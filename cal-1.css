@@ -1,0 +1,28 @@
+body{
+    padding: 100px;
+    margin: 100px;
+    background-repeat: no-repeat;
+    background-size: 100% ; 
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    height: 30vh; 
+ }
+ .cal{
+     background-color: bisque;
+     height: 300px;
+     width: 300px;
+ }
+ input[type=button]{
+     width: 50px;
+     height: 40px;
+     font-size: 30px;
+     cursor: pointer;
+ }
+ input[type=text]{
+     width: 200px;
+     height: 40px;
+     font-size: 30px;
+     cursor: pointer;
+ }
+ 
